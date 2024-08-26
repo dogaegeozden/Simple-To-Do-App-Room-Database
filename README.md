@@ -1,7 +1,7 @@
 # Simple To Do App with Room Database
 A simple to do list app built with Jetpack Compose for Android doing CRUD operations. It's using Room library to utilize a SQLite database.
 
-![AppSs](https://raw.githubusercontent.com/dogaegeozden/Simple-To-Do-App/main/screenshots/sc_1.png)
+![AppSs](https://raw.githubusercontent.com/dogaegeozden/Simple-To-Do-App-Room-Database/main/screenshots/sc_1.png)
 
 Features
 
